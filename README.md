@@ -1,0 +1,2 @@
+# permission
+Izin mas e
